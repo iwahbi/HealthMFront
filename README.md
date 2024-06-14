@@ -1,6 +1,6 @@
 # Healthcare Management System - Frontend
 
-A responsive and interactive frontend for the Healthcare Management System, built with React and Ant Design. This application allows patients to sign up, manage their health profiles, and receive predictive health insights. Doctors can register, manage their professional profiles, and interact with patients. The frontend communicates with the backend to provide a comprehensive healthcare management experience.
+A responsive and interactive frontend for the Healthcare Management System, built with React and Ant Design. This application allows patients to sign up, manage their health profiles, and receive predictive health insights. Doctors can register, manage their professional profiles, and interact with patients. The frontend communicates with the backend to provide a comprehensive healthcare management experience. THE SCRIPTS ARE PUSHED TO THE BACK
 
 ## Features
 
